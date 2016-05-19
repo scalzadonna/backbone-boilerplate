@@ -1,4 +1,4 @@
-# bookstore-backbone
+# backbone boilerplate
 
 backbone.js
 underscore.js
